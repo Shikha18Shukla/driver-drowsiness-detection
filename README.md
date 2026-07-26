@@ -329,7 +329,7 @@ It helps others discover the project and motivates future improvements!
 
 ## 📄 License
 
-This project is intended for educational and research purposes.
+This project is intended for learnning and research purposes.
 
 
 
